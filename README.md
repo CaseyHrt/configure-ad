@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines deploying on-premises Active Directory in Azure VMs. Using Windows Server 2022 and Windows 10 (21H2), it covers resource setup, creating a Domain Controller VM ("DC-1"), and configuring a Windows 10 Client VM ("Client-1"). After connectivity checks, the guide progresses through Active Directory installation, user account creation, and domain joining. Leveraging Azure services, Remote Desktop, and PowerShell, the tutorial offers a concise yet comprehensive deployment process. For visual guidance, refer to the YouTube video titled "How to Deploy on-premises Active Directory within Azure Compute".<br />
+This tutorial outlines deploying on-premises Active Directory in Azure VMs. Using Windows Server 2022 and Windows 10 (21H2), it covers resource setup, creating a Domain Controller VM, and configuring a Windows 10 Client VM. The guide progresses through Active Directory installation, user account creation, and domain joining. Leveraging Azure services, Remote Desktop, and PowerShell, the tutorial offers a concise yet comprehensive deployment process. For visual guidance, refer to the YouTube video titled "How to Deploy on-premises Active Directory within Azure Compute".<br />
 
 
 <h2>Video Demonstration</h2>
