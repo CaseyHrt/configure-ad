@@ -127,7 +127,7 @@ This tutorial outlines deploying on-premises Active Directory in Azure VMs. Usin
 ![image](https://github.com/CaseyHrt/configure-ad/assets/146404028/5b93849d-56af-457d-97a0-d6517ac853e7)
 
 ### Log in to DC-1 as "jane_admin."
-- Run the [provided PowerShell script](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) to create additional users.
+- Run the provided [PowerShell script](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) to create additional users.
 - Observe created accounts in ADUC in the appropriate OU.
 - Attempt to log into Client-1 with one of the new accounts.
 
@@ -139,6 +139,7 @@ This tutorial outlines deploying on-premises Active Directory in Azure VMs. Usin
 
 ![image](https://github.com/CaseyHrt/configure-ad/assets/146404028/9c61b77a-f871-4c60-ada4-047767f93291)
 
-
+## Conclusion
+Understanding the ticket lifecycle in osTicket is essential for effective ticket management and resolution. By following the guidance provided in this repository, users can streamline their support processes and ensure timely resolution of issues. This concludes the lab, providing a comprehensive overview of ticket management in osTicket.
 
 
