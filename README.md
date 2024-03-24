@@ -31,7 +31,6 @@ This tutorial outlines deploying on-premises Active Directory in Azure VMs using
 ![Resource Group and VNet Details](https://github.com/CaseyHrt/configure-ad/assets/146404028/7c0bcb86-5389-43ad-9bc5-1dfc7b1ca67f.png)
 ![Static IP Address Configuration](https://github.com/CaseyHrt/configure-ad/assets/146404028/75676160-5ba6-46e5-8b00-ed2d2b3d3578.png)
 ![Network Interface Configuration](https://github.com/CaseyHrt/configure-ad/assets/146404028/7fd7779b-613b-4c50-a8e3-17fc260ce6a7.png)
-![Virtual Machine Creation](https://github.com/CaseyHrt/configure-ad/assets/146404028/5fb47c66-4145-4bbf-91bf-37b376e82795.png)
 
 - Create a Windows 10 Client VM, "Client-1," in the same Resource Group and Vnet.
 
